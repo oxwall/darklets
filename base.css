@@ -3055,18 +3055,16 @@ html[xmlns] .ow_main_menu.clearfix {
 
 /* ---- Button List styles ---- */
 
-ul.ow_bl{
+.ow_bl{
     padding: 0;
 }
 
-ul.ow_bl li{
-    float: right;
+.ow_bl li{
     list-style: none;
     margin-left: 4px;
-    margin-bottom: 4px;
 }
 
-ul.ow_bl a{
+.ow_bl a{
     display: block;
     /*background: url(images/btnl_bg.png) repeat-x center left;*/
     background: #262b2f;
@@ -3082,7 +3080,7 @@ ul.ow_bl a{
     font-size: 11px;
 }
 
-ul.ow_bl a:hover {
+.ow_bl a:hover {
     border-color: #707478;
 }
 
@@ -5561,7 +5559,8 @@ td.sort_link li.active a:hover{
     padding: 3px 0px;
     color: #35393c;
 }
-.ow_context_action_list a:hover {
+.ow_context_action_list a:hover,
+.ow_bl .ow_context_action li a:hover {
     text-decoration: none;
     background: #aaaeb3;
 }
@@ -5574,6 +5573,9 @@ td.sort_link li.active a:hover{
     background: #dcdcdc;
     border-bottom: 1px solid #fff;
     margin: 1px 0px 0px;
+}
+.ow_bl .ow_context_action li a {
+    background-color: transparent;
 }
 /* ---- End of Context Action styles ---- */
 
