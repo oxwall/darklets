@@ -435,7 +435,7 @@ ul.ow_regular li {
     padding: 12px 0px 0px 10px;
 }
 .ow_logo_wrap a {
-    font-family: 'UbuntuBold', "Trebuchet MS", "Helvetica CY", sans-serif;
+    font-family: 'UbuntuBold', Verdana, Geneva, sans-serif;
     font-size: 13px;
     text-transform: uppercase;
     color: #626060;
@@ -450,7 +450,7 @@ ul.ow_regular li {
     padding-left: 9px;
 }
 .ow_logo h2 {
-    font-family: 'UbuntuBold', "Trebuchet MS", "Helvetica CY", sans-serif;
+    font-family: 'UbuntuBold', Verdana, Geneva, sans-serif;
     font-size: 32px;
     line-height: 32px;
     text-shadow: 1px 1px 0 #fefefe;
@@ -466,7 +466,7 @@ ul.ow_regular li {
 .ow_logo a {
     color: #000;
     text-decoration: none;
-    font-family: 'UbuntuBold', "Trebuchet MS", "Helvetica CY", sans-serif;
+    font-family: 'UbuntuBold', Verdana, Geneva, sans-serif;
 }
 
 .ow_header .ow_search{
@@ -1028,7 +1028,7 @@ input[type=button]{
     font-weight: normal;
     cursor: pointer;
     height: 30px;
-    font-family: 'UbuntuBold', "Trebuchet MS", "Helvetica CY", sans-serif;
+    font-family: 'UbuntuBold', Verdana, Geneva, sans-serif;
     text-transform: uppercase;
     font-size: 13px;
     border: none;
@@ -1941,7 +1941,7 @@ body textarea.ow_newsfeed_status_input.invitation {
     line-height: 16px;    
     overflow: hidden;
     font-weight: normal;
-    font-family: 'UbuntuBold', "Trebuchet MS", "Helvetica CY", sans-serif;
+    font-family: 'UbuntuBold', Verdana, Geneva, sans-serif;
 }
 
 .ow_box_cap {
@@ -2907,7 +2907,7 @@ span.ow_icon{
     width: 815px;
 }
 .ow_main_menu{
-    font-family: 'UbuntuBold', "Trebuchet MS", "Helvetica CY", sans-serif;
+    font-family: 'UbuntuBold', Verdana, Geneva, sans-serif;
        display: table-cell;
     text-align: center;
     vertical-align: middle;
@@ -3003,7 +3003,7 @@ html[xmlns] .ow_main_menu.clearfix {
 
 .ow_content_menu{
     font-size: 0px;
-    font-family: 'UbuntuBold', "Trebuchet MS", "Helvetica CY", sans-serif;
+    font-family: 'UbuntuBold', Verdana, Geneva, sans-serif;
     text-transform: uppercase;
     font-weight: normal;
 }
@@ -3938,7 +3938,7 @@ body .ow_avatar_console .avatar_console_label {
 
 /* ---- Photo styles ---- */
 .ow_photo_dragndrop {
-    font-family: 'UbuntuBold',"Trebuchet MS","Helvetica CY",sans-serif;
+    font-family: 'UbuntuBold',Verdana, Geneva, sans-serif;
     text-transform: uppercase;
     color: #333;
     background-color: #707478;
@@ -5246,7 +5246,7 @@ body .floatbox_canvas .floatbox_container {
     padding: 8px 12px 0px;
     float: left;
     font-weight: normal;
-    font-family: 'UbuntuBold', "Trebuchet MS", "Helvetica CY", sans-serif;    
+    font-family: 'UbuntuBold', Verdana, Geneva, sans-serif;    
 }
 .floatbox_header .ow_box_cap_icons {
     float: right;
